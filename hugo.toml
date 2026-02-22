@@ -1,4 +1,29 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://rgp-site.pages.dev'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'The Rio Grande Plan'
+
+[module]
+[[module.imports]]
+disable = false
+ignoreConfig = false
+ignoreImports = false
+path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
+
+[params]
+site_logo = "images/logo_72px.png"
+description = "A Citizen Proposal to Restore Rail Service to the Rio Grande Depot and reconnect our divided community."
+
+[params.ananke.social.linkedin]
+username = "via-rio-grande"
+
+[params.ananke.social.youtube]
+username = "@CSLenhart"
+
+[params.ananke.social.facebook]
+username = '61566364769715'
+
+[params.ananke.social.instagram]
+username = 'riograndeplan'
+
+[params.ananke.social.follow]
+networks = ["instagram", "youtube", "facebook"]
