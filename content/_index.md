@@ -1,3 +1,23 @@
++++
+title = "The Rio Grande Plan"
+template = "index.html"
+
+[extra]
+tagline = "A Citizen Proposal to Restore Rail Service to the Rio Grande Depot and reconnect our divided community."
+hero_image = "/images/hero-render.jpg"
+
+[[extra.features]]
+title = "The Train Box"
+description = "Burying the rails along 600 W in a below-grade trench to eliminate dangerous crossings and reduce emissions."
+
+[[extra.features]]
+title = "Healing the Divide"
+description = "Removing the physical railroad barrier between the east and west sides of Salt Lake City, opening up 75 acres for redevelopment."
+
+[[extra.features]]
+title = "Revitalizing the Depot"
+description = "Returning UTA FrontRunner and Amtrak passenger service to the historic Rio Grande Depot."
++++
 # Welcome to the Rio Grande Plan
 
 A Citizen Proposal to Restore Rail Service to the Rio Grande Depot and reconnect our divided community
@@ -29,4 +49,4 @@ The Rio Grande Plan has risen to a place of serious consideration, with a prelim
 In February 2023, Salt Lake City was awarded nearly $2 million from the United States Department of Transportation in order to study solutions for eliminating barriers caused by transportation infrastructure. One of the principal options being studied is the Rio Grande Plan’s concept of a ‘train box,’ which would move all railroad tracks into a below-grade trench.  
 Click the link below to access SLC’s grant application, letters of support, and an explanation of the study’s objectives.
 
-(Study Website)[https://www.slc.gov/transportation/plans-studies/west-east-connections/]
+[Study Website](https://www.slc.gov/transportation/plans-studies/west-east-connections/)

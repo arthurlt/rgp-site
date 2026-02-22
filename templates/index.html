@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="hero" style="background-image: url('{{ get_url(path=section.extra.hero_image) }}');">
+    <div class="hero-content">
+        <h1>{{ section.title }}</h1>
+        <p class="tagline">{{ section.extra.tagline }}</p>
+        <a href="{{ get_url(path='get-involved') }}" class="btn primary">Get Involved</a>
+        <a href="{{ get_url(path='reports') }}" class="btn secondary">Read the Screening Analysis</a>
+    </div>
+</section>
+
+<section class="project-features">
+    <h2>Why the Rio Grande Plan?</h2>
+    <div class="feature-grid">
+        {% for feature in section.extra.features %}
+        <div class="feature-card">
+            <h3>{{ feature.title }}</h3>
+            <p>{{ feature.description }}</p>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+{% endblock content %}
