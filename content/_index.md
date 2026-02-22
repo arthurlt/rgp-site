@@ -1,6 +1,6 @@
 +++
 title = "The Rio Grande Plan"
-template = "index.html"
+template = "gem_index.html"
 
 [extra]
 tagline = "A Citizen Proposal to Restore Rail Service to the Rio Grande Depot and reconnect our divided community."

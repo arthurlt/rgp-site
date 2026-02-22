@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://rgp-site.pages.dev"
+base_url = "https://rgp-site.pages.dev/"
 title = "The Rio Grande Plan"
 description = "A Citizen Proposal to Restore Rail Service to the Rio Grande Depot and reconnect our divided community."
 default_language = "en"
@@ -11,6 +11,8 @@ compile_sass = true
 build_search_index = true
 
 # theme = "daisy"
+# theme = "juice"
+# theme = "duckling"
 
 [markdown]
 

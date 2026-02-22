@@ -2,3 +2,9 @@
 	path = themes/daisy
 	url = https://codeberg.org/winterstein/zola-theme-daisy.git
 	branch = main
+[submodule "themes/juice"]
+	path = themes/juice
+	url = https://github.com/huhu/juice
+[submodule "themes/duckling"]
+	path = themes/duckling
+	url = https://git.aparoksha.dev/david-swift/duckling
