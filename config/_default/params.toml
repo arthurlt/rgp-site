@@ -1,0 +1,20 @@
+site_logo = "images/logo.png"
+description = "A Citizen Proposal to Restore Rail Service to the Rio Grande Depot and reconnect our divided community"
+
+[ananke]
+show_recent_posts = false
+
+[ananke.social.linkedin]
+username = "via-rio-grande"
+
+[ananke.social.youtube]
+username = "CSLenhart"
+
+[ananke.social.facebook]
+username = '61566364769715'
+
+[ananke.social.instagram]
+username = 'riograndeplan'
+
+[ananke.social.follow]
+networks = ["instagram", "youtube", "facebook", "linkedin"]

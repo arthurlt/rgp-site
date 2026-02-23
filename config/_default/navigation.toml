@@ -1,0 +1,37 @@
+[menus]
+[[menu.main]]
+	name = "About"
+	pageRef = "/about"
+	weight = 10
+
+[[menu.main]]
+	name = "Contact"
+	pageRef = "/contact"
+	weight = 20
+
+[[menu.main]]
+	name = "In the Media"
+	pageRef = "/media"
+	weight = 30
+
+[[menu.main]]
+	name = "Gallery"
+	pageRef = "/gallery"
+	weight = 40
+
+[[menu.main]]
+	name = "Letters of Support"
+	pageRef = "/letters"
+	weight = 50
+
+[[menu.main]]
+    name = "Shop"
+    url = "https://store.viariogrande.org/"
+    weight = 60
+    params = { external = true }
+
+[[menu.main]]
+    name = "Donate"
+    url = "https://store.viariogrande.org/product/donation/"
+    weight = 70
+    params = { external = true }

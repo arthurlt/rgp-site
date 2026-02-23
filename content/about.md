@@ -1,11 +1,6 @@
 ---
 title: "About"
-
-menu:
-  main:
-    weight: 1
-cascade:
-  featured_image: '/images/ground_render.jpg'
+featured_image: '/images/ground_render.jpg'
 ---
 {{< youtube id=-a71elwoq5U >}}
 

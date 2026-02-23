@@ -1,0 +1,10 @@
+baseURL = 'https://rgp-site.pages.dev'
+languageCode = 'en-us'
+title = 'The Rio Grande Plan'
+
+[module]
+[[module.imports]]
+disable = false
+ignoreConfig = false
+ignoreImports = false
+path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'

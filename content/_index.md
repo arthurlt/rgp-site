@@ -23,7 +23,7 @@ Before including the Rio Grande Plan in the ‘Reconnecting Communities’ study
 
 # Rio Grande Plan Financing and Economic Development Strategies
 
-The Rio Grande Plan has risen to a place of serious consideration, with a preliminary endorsement from the Salt Lake County Council and various local advocacy and community councils in Salt Lake City and the state. The Rio Grande Plan Financing and Economic Development Strategy (RGP- FEDS) details potential funding sources including discretionary grants from the federal Bipartisan Infrastructure Law, federal loans and credits via the US Department of Transportation (USDOT), private contributions, as well as state and local bonds). The document draws on examples from similar successfully-funded projects in neighboring states and provides a budget template to receive similar funding as project peers.
+The Rio Grande Plan has risen to a place of serious consideration, with a preliminary endorsement from the Salt Lake County Council and various local advocacy and community councils in Salt Lake City and the state. The Rio Grande Plan Financing and Economic Development Strategy (RGP- FEDS) details potential funding sources including discretionary grants from the federal Bipartisan Infrastructure Law, federal loans and credits via the US Department of Transportation (USDOT), private contributions, as well as state and local bonds. The document draws on examples from similar successfully-funded projects in neighboring states and provides a budget template to receive similar funding as project peers.
 
 [Development and Financing](https://dropbox.riograndeplansaltlakecity.org/Letters%20and%20Documents/RGP_EconDevFinal_0914.pdf)
 
