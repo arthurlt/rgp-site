@@ -2,6 +2,8 @@ baseURL = 'https://rgp-site.pages.dev'
 languageCode = 'en-us'
 title = 'The Rio Grande Plan'
 
+sectionPagesMenu = 'main'
+
 [module]
 [[module.imports]]
 disable = false
@@ -9,15 +11,30 @@ ignoreConfig = false
 ignoreImports = false
 path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
 
+[[menu.main]]
+    name = "Shop"
+    url = "https://store.viariogrande.org/"
+    weight = 98
+    params = { external = true }
+
+[[menu.main]]
+    name = "Donate"
+    url = "https://store.viariogrande.org/product/donation/"
+    weight = 99
+    params = { external = true }
+
 [params]
-site_logo = "images/logo_72px.png"
-description = "A Citizen Proposal to Restore Rail Service to the Rio Grande Depot and reconnect our divided community."
+site_logo = "images/logo.png"
+description = "A Citizen Proposal to Restore Rail Service to the Rio Grande Depot and reconnect our divided community"
+
+[params.ananke]
+show_recent_posts = false
 
 [params.ananke.social.linkedin]
 username = "via-rio-grande"
 
 [params.ananke.social.youtube]
-username = "@CSLenhart"
+username = "CSLenhart"
 
 [params.ananke.social.facebook]
 username = '61566364769715'
@@ -26,4 +43,4 @@ username = '61566364769715'
 username = 'riograndeplan'
 
 [params.ananke.social.follow]
-networks = ["instagram", "youtube", "facebook"]
+networks = ["instagram", "youtube", "facebook", "linkedin"]
