@@ -1,4 +1,5 @@
 site_logo = "images/logo.png"
+favicon = "images/favicon.png" # TODO: svg
 description = "A Citizen Proposal to Restore Rail Service to the Rio Grande Depot and reconnect our divided community"
 
 [ananke]

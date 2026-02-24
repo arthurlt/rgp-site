@@ -2,6 +2,9 @@ baseURL = 'https://rgp-site.pages.dev'
 languageCode = 'en-us'
 title = 'The Rio Grande Plan'
 
+defaultContentLanguage = "en"
+sectionPagesMenu = "main"
+
 [module]
 [[module.imports]]
 disable = false

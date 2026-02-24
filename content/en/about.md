@@ -1,7 +1,10 @@
----
-title: "About"
-featured_image: '/images/ground_render.jpg'
----
++++
+title = "About"
+featured_image = '/images/ground_render.jpg'
+[menus]
+  [menus.main]
+    weight = 10
++++
 {{< youtube id=-a71elwoq5U >}}
 
 # The Train Box
