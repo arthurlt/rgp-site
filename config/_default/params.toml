@@ -4,7 +4,7 @@ description = "Utah’s next big move"
 custom_css = ["button.css"]
 
 [ananke]
-show_recent_posts = true
+show_recent_posts = false
 
 [ananke.social.linkedin]
 username = "via-rio-grande"

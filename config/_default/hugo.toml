@@ -1,6 +1,7 @@
 baseURL = 'https://rgp-site.pages.dev'
 languageCode = 'en-us'
 title = 'The Rio Grande Plan'
+copyright = "Via Rio Grande"
 
 defaultContentLanguage = "en"
 sectionPagesMenu = "main"
