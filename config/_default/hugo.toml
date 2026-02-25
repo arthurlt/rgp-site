@@ -5,6 +5,14 @@ title = 'The Rio Grande Plan'
 defaultContentLanguage = "en"
 sectionPagesMenu = "main"
 
+# [markup]
+#   [markup.goldmark]
+#     [markup.goldmark.renderer]
+#       unsafe = true
+
+[cascade]
+featured_image = '/images/ground_render.jpg'
+
 [module]
 [[module.imports]]
 disable = false

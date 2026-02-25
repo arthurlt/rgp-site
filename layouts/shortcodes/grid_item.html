@@ -1,0 +1,15 @@
+<div class="fl w-100 w-50-ns pa2">
+  
+  <div class="pv4">
+    {{ .Inner | markdownify }}
+  </div>
+
+  {{ if .Get "href" }}
+    <div class="pv4">
+      <a href="{{ .Get "href" }}" class="f6 link dim br2 ba ph3 pv2 mb2 dib dark-blue">
+        {{ default "Read More" (.Get "button") }}
+      </a>
+    </div>
+  {{ end }}
+
+</div>

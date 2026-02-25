@@ -1,9 +1,10 @@
 site_logo = "images/logo.png"
 favicon = "images/favicon.png" # TODO: svg
-description = "A Citizen Proposal to Restore Rail Service to the Rio Grande Depot and reconnect our divided community"
+description = "Utah’s next big move"
+custom_css = ["button.css"]
 
 [ananke]
-show_recent_posts = false
+show_recent_posts = true
 
 [ananke.social.linkedin]
 username = "via-rio-grande"

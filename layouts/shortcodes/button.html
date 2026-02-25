@@ -1,0 +1,6 @@
+<a href="{{ .Get "href" }}" 
+   {{ with .Get "target" }}target="{{ . }}"{{ end }} 
+   {{ with .Get "rel" }}rel="{{ . }}"{{ end }} 
+   class="f6 link dim br3 ph3 pv2 mb2 dib white bg-dark-blue {{ with .Get "class" }}{{ . }}{{ end }}">
+  {{ .Inner }}
+</a>
