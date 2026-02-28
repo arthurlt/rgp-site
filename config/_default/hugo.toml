@@ -12,7 +12,7 @@ sectionPagesMenu = "main"
 #       unsafe = true
 
 [cascade]
-featured_image = '/images/ground_render.jpg'
+featured_image = '/images/ground-render.jpg'
 
 [module]
 [[module.imports]]

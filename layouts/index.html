@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="w-100 ph3 ph5-ns pv5 center mw9 {{ $.Param " text_color" | default "mid-gray" }}">
+
+  <header class="mb5">
+    <h2 class="f2 lh-title mb3 mt0 pt3 bt bw2 ttu blue">
+      <span class="fw9">Rio Grande Plane</span>
+      <span class="fw4">Overview</span>
+    </h2>
+  </header>
+
+  <section class="w-75 center">
+    {{ .Content }}
+  </section>
+
+</article>
+{{ end }}
