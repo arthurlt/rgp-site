@@ -2,36 +2,38 @@
 title = "El Plan Río Grande"
 description = "El próximo gran movimiento de Utah"
 featured_image = '/images/aerial-render.jpg'
+header_accent="Plan Río Grande"
+header_main="Descripción general"
 +++
 {{< feature-grid >}}
 
-  {{< feature-item title-accent="Rerouting" title-main="the rails" >}}
-  FrontRunner, Amtrak, and Union Pacific activity downtown would be **completely grade separated**  
+  {{< feature-item title-accent="Redireccionamiento" title-main="de los rieles" >}}
+  La actividad de FrontRunner, Amtrak y Union Pacific en el centro de la ciudad estaría **completamente separada por niveles**  
 
-  The trains would run **unconflicted** in a covered trench (train box) beneath 500 West, which could be used as a street again  
+  Los trenes circularían **sin problemas** por una zanja cubierta (caja de tren) debajo de 500 West, que podría volver a usarse como calle  
 
-  **Zero demolition** of housing units would be required  
+  **No se requeriría demolición** de viviendas  
   {{< /feature-item >}}
 
-  {{< feature-item title-accent="Revitalizing" title-main="Salt Lake City" >}}
-  Over **75 acres** of downtown-adjacent land would be **opened for redevelopment**  
+  {{< feature-item title-accent="Revitalizando" title-main="Salt Lake City" >}}
+  Más de **75 acres** de tierra adyacente al centro de la ciudad se **abrirían para la reurbanización**  
 
-  The taxable value of these parcels would increase from $17 million to **$2 billion**  
+  El valor imponible de estas parcelas aumentaría de 17 millones de dólares a **2 mil millones de dólares**  
 
-  **Another 50 acres** would be revitalized by increased access and proximity  
+  Se revitalizarían **otras 50 hectáreas mediante un mayor acceso y proximidad**  
 
-  An **entire new city district** could be built with over **2600 housing units**, new green spaces, offices, hotels, entertainment venues, university facilities, a permanent public market, churches, and more  
+  Se podría construir un **nuevo distrito urbano completo con más de 2.600 unidades de vivienda**, nuevos espacios verdes, oficinas, hoteles, lugares de entretenimiento, instalaciones universitarias, un mercado público permanente, iglesias y más  
 
-  This would be the most transit-oriented development opportunity **in state history**
+  Esta sería la oportunidad de desarrollo más orientada al tránsito **en la historia del estado**  
   {{< /feature-item >}}
 
 
-  {{< feature-item title-accent="Reconnecting" title-main="Utah" >}}
-  Passenger rail service would be **restored** to the Rio Grande Depot  
+  {{< feature-item title-accent="Reconectando" title-main="Utah" >}}
+  El servicio ferroviario de pasajeros se **restablecería** en la Estación de Río Grande  
 
-  Utah and the Intermountain West would have the **world-class**, modern train station it deserves  
+  Utah y el Oeste Intermontano tendrían la estación **de tren moderna y de clase mundial que merecen**  
 
-  The new station would be capable of **comfortably** hosting new routes to Boise and Las Vegas  
+  La nueva estación sería capaz de albergar **cómodamente** nuevas rutas a Boise y Las Vegas  
   {{< /feature-item >}}
 {{< /feature-grid >}}
 

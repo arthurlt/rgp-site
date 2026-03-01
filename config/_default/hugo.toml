@@ -1,4 +1,4 @@
-baseURL = 'https://rgp-site.pages.dev'
+baseURL = 'https://rgp-slc.antiprism.dev'
 languageCode = 'en-us'
 title = 'The Rio Grande Plan'
 copyright = "Via Rio Grande"
@@ -10,6 +10,9 @@ sectionPagesMenu = "main"
 #   [markup.goldmark]
 #     [markup.goldmark.renderer]
 #       unsafe = true
+
+[services.googleAnalytics]
+id = ''
 
 [cascade]
 featured_image = '/images/ground-render.jpg'
